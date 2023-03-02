@@ -9,7 +9,7 @@ nftzip allows users:
 
 ## Project Setup
 ```
-npm install / yarn
+yarn install
 ```
 
 ## Compile
