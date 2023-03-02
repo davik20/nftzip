@@ -1,5 +1,4 @@
-# Client for nftzip Marketplace - Powered by Fantom
-
+# Client for nftzip Marketplace 
 A client side implementation of the nftzip Marketplace for NFT trading on Fantom Opera network.
 
 nftzip allows users: 
@@ -7,8 +6,6 @@ nftzip allows users:
 - to create a new collection of a new NFT
 - to register a collection of already deployed NFT.
 - to buy / sell / collect rare NFTs.
-
-See [Guide](https://docs.fantom.foundation/tutorials/collection-and-bundle-guide-on-nftzip)
 
 ## Project Setup
 ```
